@@ -7,7 +7,7 @@
 </p>
 
 ## About me
-<p>Olá, tenho 17 anos e sou estudante de programação. Atualmente estou concluindo o último ano do meu curso de Técnico de Informática na :school: E.E.E.P Profª Luíza de Teodoro Vieira . A alguns anos venho dedicando meus estudos ao desenvolvimento de sistemas :wrench:, aplicações mobile :phone:e criação de Web Sites. :computer:</p> 
+<p>Olá, tenho 17 anos e sou estudante de programação. Atualmente estou concluindo o último ano do meu curso de Técnico de Informática na :school: E.E.E.P Profª Luíza de Teodoro Vieira . A alguns anos venho dedicando meus estudos ao desenvolvimento de sistemas :wrench:, aplicações mobile :iphone: e criação de Web Sites. :computer:</p> 
 
 ## Skills
 * Java
