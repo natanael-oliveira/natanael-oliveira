@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/natanael-oliveira/natanael-oliveira.github.io/raw/master/assets/icons/logo.svg" width="100px">
+	<img src="logo.svg" width="100px">
 </p>
 <h2 align="center">Natanael Oliveira Martins</h2>
 <p align="center">
