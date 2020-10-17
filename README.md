@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="30%" src="logo.svg" width="100px">
+	<img src="logo.svg" width="300px">
 </p>
 <p align="center">
 	<a  href="https://www.instagram.com/http_neitan/"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" width="100px"></a>
