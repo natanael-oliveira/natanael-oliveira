@@ -17,6 +17,5 @@
 - Javascript
 - Bootstrap framework
 - html/css
-- Laravel
 
 Atualmente estou estudando Angular Frameworck e API REST com Spring Boot
