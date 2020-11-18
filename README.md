@@ -7,5 +7,16 @@
 </p>
 
 ### Olá! Bem vindo ao meu perfil :smile: :wave:
-<p>Me chamo Natanael e sou estudante de Programação. Atualmente cursando o último ano do curso Técnico de Informática.</p>
+<p>Me chamo Natanael, sou estudante de Programação e curso Técnico de Informática.</p>
 
+#### PRINCIPAIS CONHECIMENTOS E TECNOLOGIAS:
+
+- Java: Maven, Hibernate;
+- Banco de Dados MySQL;
+- git
+- Javascript
+- Bootstrap framework
+- html/css
+- Laravel
+
+Atualmente estou estudando Angular Frameworck e API REST com Spring Boot
