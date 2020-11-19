@@ -7,7 +7,7 @@
 </p>
 
 ### Olá! Bem vindo ao meu perfil :smile: :wave:
-<p>Me chamo Natanael, sou estudante de Programação e curso Técnico de Informática.</p>
+<p>Me chamo Natanael, sou estudante de Programação e estou cursando Técnico de Informática.</p>
 
 #### PRINCIPAIS CONHECIMENTOS E TECNOLOGIAS:
 
