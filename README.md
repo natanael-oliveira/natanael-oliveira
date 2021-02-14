@@ -3,4 +3,4 @@
 	Visite meu <a href="https://natanael-oliveira.github.io/">Portfólio</a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=51293075)
+<img src="https://hit.yhype.me/github/profile?user_id=51293075">
